@@ -11,7 +11,7 @@ import sys
 import time
 from pathlib import Path
 
-from . import __version__, core
+from . import __version__, _update, core
 
 
 def parse_size(text: str) -> int:

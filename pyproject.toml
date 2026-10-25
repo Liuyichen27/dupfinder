@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "dupfinder"
-version = "1.0.0"
+version = "1.1.0"
 description = "找出内容完全相同的文件，只出报告不删文件"
 readme = "README.md"
 requires-python = ">=3.8"
